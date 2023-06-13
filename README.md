@@ -125,6 +125,7 @@ Bazen bu gerçekleştirim ata sınıftakini kullanıp üzerine birşeyler ekleye
 Bunu yapabilmek için iki yöntem vardır.
 
 1- Overriding in Java (Ezme)
+
 2- Overloading in Java (Aşırı yükleme)
 
 ----------------------------------------------
